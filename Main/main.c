@@ -26,7 +26,7 @@ void main(void)
     while (1)
     {  
         
-       //  Diagnostic_LCD();
+         Diagnostic_LCD();
      
     }
 }

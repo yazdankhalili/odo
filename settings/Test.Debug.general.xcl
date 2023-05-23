@@ -2,7 +2,7 @@
 
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
 
-"C:\Users\5740\Desktop\ODO Reset\Debug\Exe\Test.hex" 
+"D:\Software\ST\Code\ODO_Reset\Debug\Exe\Test.hex" 
 
 --plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
 

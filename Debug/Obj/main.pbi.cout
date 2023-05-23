@@ -1,62 +1,62 @@
-"C:\Users\5740\Desktop\ODO Reset\Main\main.c"
+"D:\Software\ST\Code\ODO_Reset\Main\main.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\5740\Desktop\ODO Reset\Main
+D:\Software\ST\Code\ODO_Reset\Main
 -I
-C:\Users\5740\Desktop\ODO Reset\Standard Peripheral Driver
+D:\Software\ST\Code\ODO_Reset\Standard Peripheral Driver
 -I
-C:\Users\5740\Desktop\ODO Reset\STM32 Core
+D:\Software\ST\Code\ODO_Reset\STM32 Core
 -I
-C:\Users\5740\Desktop\ODO Reset\Delay
+D:\Software\ST\Code\ODO_Reset\Delay
 -I
-C:\Users\5740\Desktop\ODO Reset\CAN
+D:\Software\ST\Code\ODO_Reset\CAN
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd16x2
+D:\Software\ST\Code\ODO_Reset\lcd16x2
 -I
-C:\Users\5740\Desktop\ODO Reset\SMT172
+D:\Software\ST\Code\ODO_Reset\SMT172
 -I
-C:\Users\5740\Desktop\ODO Reset\IO
+D:\Software\ST\Code\ODO_Reset\IO
 -I
-C:\Users\5740\Desktop\ODO Reset\SPI L9826
+D:\Software\ST\Code\ODO_Reset\SPI L9826
 -I
-C:\Users\5740\Desktop\ODO Reset\K Line
+D:\Software\ST\Code\ODO_Reset\K Line
 -I
-C:\Users\5740\Desktop\ODO ResetGLCD128x64
+D:\Software\ST\Code\ODO_ResetGLCD128x64
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd20x4
+D:\Software\ST\Code\ODO_Reset\lcd20x4
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd16x2
+D:\Software\ST\Code\ODO_Reset\lcd16x2
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\c
 -I
-C:\Users\5740\Desktop\ODO Reset\Main
+D:\Software\ST\Code\ODO_Reset\Main
 -I
-C:\Users\5740\Desktop\ODO Reset\Standard Peripheral Driver
+D:\Software\ST\Code\ODO_Reset\Standard Peripheral Driver
 -I
-C:\Users\5740\Desktop\ODO Reset\STM32 Core
+D:\Software\ST\Code\ODO_Reset\STM32 Core
 -I
-C:\Users\5740\Desktop\ODO Reset\Delay
+D:\Software\ST\Code\ODO_Reset\Delay
 -I
-C:\Users\5740\Desktop\ODO Reset\CAN
+D:\Software\ST\Code\ODO_Reset\CAN
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd16x2
+D:\Software\ST\Code\ODO_Reset\lcd16x2
 -I
-C:\Users\5740\Desktop\ODO Reset\SMT172
+D:\Software\ST\Code\ODO_Reset\SMT172
 -I
-C:\Users\5740\Desktop\ODO Reset\IO
+D:\Software\ST\Code\ODO_Reset\IO
 -I
-C:\Users\5740\Desktop\ODO Reset\SPI L9826
+D:\Software\ST\Code\ODO_Reset\SPI L9826
 -I
-C:\Users\5740\Desktop\ODO Reset\K Line
+D:\Software\ST\Code\ODO_Reset\K Line
 -I
-C:\Users\5740\Desktop\ODO ResetGLCD128x64
+D:\Software\ST\Code\ODO_ResetGLCD128x64
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd20x4
+D:\Software\ST\Code\ODO_Reset\lcd20x4
 -I
-C:\Users\5740\Desktop\ODO Reset\lcd16x2
+D:\Software\ST\Code\ODO_Reset\lcd16x2
 -DUSE_STDPERIPH_DRIVER=1
 -DSTM32F10X_MD=1
 -D__CHAR_BITS__=8
